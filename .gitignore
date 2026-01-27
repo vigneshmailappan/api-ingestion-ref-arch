@@ -1,0 +1,13 @@
+# Python / uv
+.venv/
+uv.lock
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local outputs (will create later)
+out/
