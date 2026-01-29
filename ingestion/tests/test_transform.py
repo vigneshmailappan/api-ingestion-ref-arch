@@ -1,5 +1,6 @@
 from ingestion.app.transform import normalize_open_meteo
 
+
 def test_normalize_open_meteo_basic():
     sample = {
         "hourly": {

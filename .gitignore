@@ -11,3 +11,5 @@ __pycache__/
 
 # Local outputs (will create later)
 out/
+dummy.json
+dummy.py
