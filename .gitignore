@@ -1,6 +1,5 @@
 # Python / uv
 .venv/
-uv.lock
 
 # VS Code
 .vscode/

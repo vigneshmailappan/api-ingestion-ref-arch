@@ -1,0 +1,22 @@
+# Prevent large / irrelevant files from going into container
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+.venv/
+.uv/
+.env
+.env.*
+
+# Git / Editor
+.git
+.gitignore
+.gitattributes
+.vscode/
+.idea/
+.DS_Store
+
+# Tests (not needed in runtime image)
+pytest.ini
+tests/
